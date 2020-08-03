@@ -7,6 +7,8 @@ Find the [production release here](https://projectory-5171c.web.app/)
 
 The final application is currently in development at the [UMass DSC](https://github.com/dsc-umass/project-matching). The final application supports the user building and hosting their own instance of the application.
 
+Dashboard <img src="./screenshots/dashboard1.png" width="100" height="100">
+
 <div><p align="center">
 <center><h4>Projectory is supported & used by:</h4><a href="https://www.linkedin.com/company/dscntu/"><img width="270" src="/assets/dsc_ntu.png" target="_blank"></a>
 <a href="https://umassdsc.com/" target="_blank"><img width="270" src="./assets/dsc_umass.jpg"></a>
