@@ -2,12 +2,20 @@
 
 An open sourced project and team matching platform meant for inhouse project management and hiring for clubs and organizations.
 
-This application is the MVP meant for beta testing the concept.
-Find the [production release here](https://projectory-5171c.web.app/)
+This application is the MVP meant for beta testing the concept. 
+Find the [production release here](https://projectory-5171c.web.app/).<br>
+Built using `Nodejs`, `Expressjs`and `Reactjs`.
 
 The final application is currently in development at the [UMass DSC](https://github.com/dsc-umass/project-matching). The final application supports the user building and hosting their own instance of the application.
 
-Dashboard <img src="./screenshots/dashboard1.png" width="100" height="100">
+### Screenshots 
+Authentication             |  Dashboard
+:-------------------------:|:-------------------------:
+<img src="./screenshots/auth.png">  |  <img src="./screenshots/dashboard.png">
+My Projects             |  My Teams
+<img src="./screenshots/myprojects.png">  |  <img src="./screenshots/myteams.png">
+Edit Project             |  My Profile
+<img src="./screenshots/editproject.png">  |  <img src="./screenshots/myprofile.png">
 
 <div><p align="center">
 <center><h4>Projectory is supported & used by:</h4><a href="https://www.linkedin.com/company/dscntu/"><img width="270" src="/assets/dsc_ntu.png" target="_blank"></a>
